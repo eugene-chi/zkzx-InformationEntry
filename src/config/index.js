@@ -1,0 +1,1 @@
+const baseURL = {    test1: 'http://39.105.123.82',  serviceName: {    test1: '/test1',  }};const codeTable = {  onlineServiceList: [    {val: 'true', label: '是'},    {val: 'false', label: '否'},  ],  };export {baseURL, codeTable}
